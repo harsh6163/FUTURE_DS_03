@@ -1,7 +1,5 @@
 📊 Marketing Funnel & Conversion Performance Analysis | Power BI
 
-Data Science & Analytics Internship – Future Interns
-
 🚀 Project Overview
 
 This project was developed as part of my Data Science & Analytics Internship at Future Interns.
@@ -16,31 +14,30 @@ Banks invest heavily in marketing campaigns, but not all contacted customers con
 
 This dashboard answers critical business questions:
 
-How many customers were contacted?
+● How many customers were contacted?
 
-What percentage subscribed to the term deposit?
+● What percentage subscribed to the term deposit?
 
-Where does the largest funnel drop-off occur?
+● Where does the largest funnel drop-off occur?
 
-Does follow-up frequency improve conversion?
+● Does follow-up frequency improve conversion?
 
-Which customer segments convert the most?
+● Which customer segments convert the most?
 
-Which months show higher marketing effectiveness?
+● Which months show higher marketing effectiveness?
 
-Does contact type (cellular vs telephone) impact results?
+● Does contact type (cellular vs telephone) impact results?
 
 🛠️ Tools & Technologies
 
-Power BI Desktop – Dashboard development & visualization
+● Power BI Desktop – Dashboard development & visualization
 
-DAX (Data Analysis Expressions) – KPI calculations & funnel metrics
+● DAX (Data Analysis Expressions) – KPI calculations & funnel metrics
 
-Microsoft Excel – Data cleaning & preprocessing
+● Microsoft Excel – Data cleaning & preprocessing
 
-Data Modeling – Measures & structured funnel logic
+● Data Modeling – Measures & structured funnel logic
 
-Dataset Source: Bank Marketing Dataset from UCI Repository
 
 📐 Key DAX Measures
 Total Contacts =
@@ -63,58 +60,58 @@ These measures form the foundation of the marketing funnel and conversion analys
 
 🔍 Key Insights & Findings
 
-The overall conversion rate is approximately 11.5%, meaning nearly 88% of contacted customers do not convert.
+● The overall conversion rate is approximately 11.5%, meaning nearly 88% of contacted customers do not convert.
 
-Customers contacted more than once show significantly higher subscription probability.
+● Customers contacted more than once show significantly higher subscription probability.
 
-Previous successful campaign responses strongly increase conversion likelihood.
+● Previous successful campaign responses strongly increase conversion likelihood.
 
-Cellular contact method performs better than telephone in terms of conversion efficiency.
+● Cellular contact method performs better than telephone in terms of conversion efficiency.
 
-Certain months show higher conversion activity, indicating seasonal campaign effectiveness.
+● Certain months show higher conversion activity, indicating seasonal campaign effectiveness.
 
 📌 Business Recommendations
 
 Based on the analysis:
 
-Improve lead qualification before outreach to reduce initial drop-off.
+● Improve lead qualification before outreach to reduce initial drop-off.
 
-Increase structured follow-ups for high-potential customers.
+● Increase structured follow-ups for high-potential customers.
 
-Prioritize cellular-based outreach campaigns.
+● Prioritize cellular-based outreach campaigns.
 
-Re-target customers with prior successful interactions.
+● Re-target customers with prior successful interactions.
 
-Allocate budget toward high-performing seasonal periods.
+● Allocate budget toward high-performing seasonal periods.
 
-Even a 2–3% improvement in conversion rate could significantly increase total subscriptions without increasing marketing spend.
+● Even a 2–3% improvement in conversion rate could significantly increase total subscriptions without increasing marketing spend.
 
 📈 Impact of This Project
 
 This project demonstrates:
 
-Funnel & growth analytics
+● Funnel & growth analytics
 
-KPI-driven marketing evaluation
+● KPI-driven marketing evaluation
 
-Business insight generation from raw data
+● Business insight generation from raw data
 
-Practical Power BI dashboard design
+● Practical Power BI dashboard design
 
-Real-world campaign performance analysis
+● Real-world campaign performance analysis
 
 It reflects how analytics can directly influence revenue optimization and marketing strategy decisions.
 
 🧠 Skills Demonstrated
 
-Marketing Funnel Analysis
+● Marketing Funnel Analysis
 
-Conversion Optimization Metrics
+● Conversion Optimization Metrics
 
-DAX Calculations
+● DAX Calculations
 
-Business Insight Communication
+● Business Insight Communication
 
-Data Visualization & Storytelling
+● Data Visualization & Storytelling
 
-Decision-Focused Reporting
+● Decision-Focused Reporting
